@@ -1,0 +1,29 @@
+body {
+	font-family: verdana;
+	background-color: white;
+}
+main {
+	width: 600px;
+}
+
+#generate {
+	background-color: #7FFFD4;
+	width: 350px;
+	height: 50px;
+	border-radius: 10px;
+	font-family: helvetica;
+	margin: 30px 200px;
+	font-size: 20px;
+
+}
+#propTable {
+	width: 700px;
+}
+ul {
+	list-style-type: none;
+	font-size: 20px;
+	margin: 20px 200px;
+}
+li {
+	margin: 10px;
+}
